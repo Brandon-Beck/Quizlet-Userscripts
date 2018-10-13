@@ -5,8 +5,8 @@
 // @match    https://quizlet.com/*/spell/*
 // @namespace https://github.com/Brandon-Beck
 // @description A forced, automatic, and short study session for spelling words you obviously do NOT know. Includes a short configurable break and an alarm to get them to come back when the break ends. Intended for use with kids.
-// @require  https://cdn.rawgit.com/Brandon-Beck/Userscripts/604449d00e316a699e1cd63d54b8b14f824dbb91/common.js
-// @require  https://cdn.rawgit.com/Brandon-Beck/Userscripts/e9750f7ddfc0a4717207be2112114a57bb76b00c/uncommon.js
+// @require  https://gitcdn.xyz/Brandon-Beck/Userscripts/604449d00e316a699e1cd63d54b8b14f824dbb91/common.js
+// @require  https://gitcdn.xyz/Brandon-Beck/Userscripts/e9750f7ddfc0a4717207be2112114a57bb76b00c/uncommon.js
 // @license  MIT
 // ==/UserScript==
 
