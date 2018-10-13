@@ -240,8 +240,9 @@ function QuizletSpellTimer(initargs = {}) {
     qst.rev_workaround_cnt = 0
   }
   function onSpellTimeout() {
-    //qst.elm.spelling_box.dispatchEvent(enter_keyboard_event)
-    Game.missedTerm()
+    // FIXME for some reason this does not trigger pause
+    qst.elm.spelling_box.dispatchEvent(enter_keyboard_event)
+    //Game.missedTerm()
   }
   function onPause() {
     qst.gamestate = GameState.Paused
