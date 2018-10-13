@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Quizlet Spell Auto-Giveup Countdown.
-// @version  0.0.4
+// @version  0.0.5
 // @grant    none
 // @match    https://quizlet.com/*/spell/*
 // @namespace https://github.com/Brandon-Beck
