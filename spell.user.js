@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name     Quizlet Spell Auto-Giveup Countdown.
-// @version  0.0.6
+// @version  0.0.7
 // @grant    none
-// @match    https://quizlet.com/*/spell/*
+// @match    https://quizlet.com/*/spell
+// @match    https://quizlet.com/*/spell/stared
 // @namespace https://github.com/Brandon-Beck
 // @description A forced, automatic, and short study session for spelling words you obviously do NOT know. Includes a short configurable break and an alarm to get them to come back when the break ends. Intended for use with kids.
 // @require  https://gitcdn.xyz/repo/Brandon-Beck/Userscripts/604449d00e316a699e1cd63d54b8b14f824dbb91/common.js
